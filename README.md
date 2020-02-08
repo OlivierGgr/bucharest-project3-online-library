@@ -11,3 +11,7 @@ __Stack :__
 - SQL/Sequelize
 
 Database and web server are deployed on Heroku.
+
+For testing purposes, I invite you to sign-up or use the following credentials:
+  email: a@a.com 
+  password: a
