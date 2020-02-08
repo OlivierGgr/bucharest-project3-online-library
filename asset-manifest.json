@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bucharest-project3-online-library/static/css/main.98b48be8.chunk.css",
-    "main.js": "/bucharest-project3-online-library/static/js/main.3406c89f.chunk.js",
-    "main.js.map": "/bucharest-project3-online-library/static/js/main.3406c89f.chunk.js.map",
-    "runtime-main.js": "/bucharest-project3-online-library/static/js/runtime-main.200e897a.js",
-    "runtime-main.js.map": "/bucharest-project3-online-library/static/js/runtime-main.200e897a.js.map",
-    "static/js/2.e6b25b8a.chunk.js": "/bucharest-project3-online-library/static/js/2.e6b25b8a.chunk.js",
-    "static/js/2.e6b25b8a.chunk.js.map": "/bucharest-project3-online-library/static/js/2.e6b25b8a.chunk.js.map",
-    "index.html": "/bucharest-project3-online-library/index.html",
-    "precache-manifest.c86493cc3c2843f0099dacc9802fb86e.js": "/bucharest-project3-online-library/precache-manifest.c86493cc3c2843f0099dacc9802fb86e.js",
-    "service-worker.js": "/bucharest-project3-online-library/service-worker.js",
-    "static/css/main.98b48be8.chunk.css.map": "/bucharest-project3-online-library/static/css/main.98b48be8.chunk.css.map",
-    "static/js/2.e6b25b8a.chunk.js.LICENSE": "/bucharest-project3-online-library/static/js/2.e6b25b8a.chunk.js.LICENSE",
-    "static/media/children.png": "/bucharest-project3-online-library/static/media/children.db5228b4.png",
-    "static/media/logo.png": "/bucharest-project3-online-library/static/media/logo.16dda1fa.png",
-    "static/media/trophy.png": "/bucharest-project3-online-library/static/media/trophy.ba048dd1.png"
+    "main.css": "/online-library/static/css/main.c0f55351.chunk.css",
+    "main.js": "/online-library/static/js/main.ea101fe1.chunk.js",
+    "main.js.map": "/online-library/static/js/main.ea101fe1.chunk.js.map",
+    "runtime-main.js": "/online-library/static/js/runtime-main.4c1b607c.js",
+    "runtime-main.js.map": "/online-library/static/js/runtime-main.4c1b607c.js.map",
+    "static/js/2.ccd39169.chunk.js": "/online-library/static/js/2.ccd39169.chunk.js",
+    "static/js/2.ccd39169.chunk.js.map": "/online-library/static/js/2.ccd39169.chunk.js.map",
+    "index.html": "/online-library/index.html",
+    "precache-manifest.0d641cf594125e1086a83bec0f8d3f69.js": "/online-library/precache-manifest.0d641cf594125e1086a83bec0f8d3f69.js",
+    "service-worker.js": "/online-library/service-worker.js",
+    "static/css/main.c0f55351.chunk.css.map": "/online-library/static/css/main.c0f55351.chunk.css.map",
+    "static/js/2.ccd39169.chunk.js.LICENSE": "/online-library/static/js/2.ccd39169.chunk.js.LICENSE",
+    "static/media/children.png": "/online-library/static/media/children.db5228b4.png",
+    "static/media/logo.png": "/online-library/static/media/logo.16dda1fa.png",
+    "static/media/trophy.png": "/online-library/static/media/trophy.ba048dd1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.200e897a.js",
-    "static/js/2.e6b25b8a.chunk.js",
-    "static/css/main.98b48be8.chunk.css",
-    "static/js/main.3406c89f.chunk.js"
+    "static/js/runtime-main.4c1b607c.js",
+    "static/js/2.ccd39169.chunk.js",
+    "static/css/main.c0f55351.chunk.css",
+    "static/js/main.ea101fe1.chunk.js"
   ]
 }
